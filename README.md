@@ -1,2 +1,2 @@
 # Smile-Detector
-An AI program that can detect a face smiling
+An AI program that detects a face smiling using opencv xml data
